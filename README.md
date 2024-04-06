@@ -1,6 +1,6 @@
 # Exasens Analysis Toolbox 📊
 
-Welcome to the Exasens Analysis Toolbox repository! This toolkit provides a set of functions and utilities to analyze the Exasens dataset available at UCI Machine Learning Repository.
+This toolkit provides a set of functions and utilities to analyze the Exasens dataset available at UCI Machine Learning Repository.
 
 ## Features 🛠️
 1. Data Preprocessing
